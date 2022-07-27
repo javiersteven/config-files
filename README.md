@@ -16,5 +16,5 @@ zshrc       -> .zshrc
   - themes for `nvim`
 
 .config/nvim:
-  - basic configuration about `nvim`
+  - basic configuration on `nvim`
 
