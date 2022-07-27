@@ -11,8 +11,10 @@ zshrc       -> .zshrc
 ## WHY ARE THESE FILES?
 .zshrc:
   - `RPROMPT` & `PROMPT`
+
 .vim:
   - themes for `nvim`
+
 .config/nvim:
   - basic configuration about `nvim`
 
